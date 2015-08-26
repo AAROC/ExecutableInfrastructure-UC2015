@@ -11,15 +11,15 @@ brucellino:
   - Address: Via Santa Sofia, 64 - 95123 Catania. Italy
   - email: marco.fargetta@ct.infn.it
 
-- coauthor1:
-  - FullName:
-  - Institute:
-  - Address:
-  - email:
-
 - kalvaer:
   - FullName: Christopher Jon Lee
   - Institute: University of Cape Town (UCT)
   - Address: Rondebosch, Cape Town, 7700, South Africa
   - email: chris.lee@cern.ch
+
+- coauthor1:
+  - FullName:
+  - Institute:
+  - Address:
+  - email:
 ---
