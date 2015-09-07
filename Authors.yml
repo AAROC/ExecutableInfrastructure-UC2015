@@ -30,7 +30,7 @@ name: Authors.yml
   
 - qasims:
   - FullName: Qasim Sarfraz
-  - The Royal Institue of Technology Stockholm (KTH)
+  - Institute: The Royal Institute of Technology Stockholm (KTH)
   - Address: Electrum, Kistagången 16, SE-164 40 Kista Stockholm Sweden
   - email: qasims@kth.se
 ---
